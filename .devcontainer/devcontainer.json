@@ -8,7 +8,7 @@
 		"ghcr.io/devcontainers-contrib/features/coverage-py:2": {},
 		"ghcr.io/devcontainers-contrib/features/powershell:1": {},
 		"ghcr.io/devcontainers-contrib/features/tox:2": {},
-		"ghcr.io/hspaans/devcontainer-features/django-upgrade:1": {}
+		"ghcr.io/hspaans/devcontainer-features/django-upgrade:2": {}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
